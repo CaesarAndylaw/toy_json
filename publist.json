@@ -1,0 +1,346 @@
+[
+   {
+      "tag":"2020",
+      "year":"2020",
+      "title":"Towards Efficient Human-Robot Collaboration with Robust Plan Recognition and Trajectory Prediction",
+      "conference":"IEEE Robotics and Automation Letters",
+      "url":"https://arxiv.org/abs/1903.02199",
+      "authors":"Yujiao Cheng, Liting Sun, Changliu Liu and Masayoshi Tomizuka"
+   },
+
+   {
+      "tag":"2020",
+      "year":"2020",
+      "title":"Experimental Evaluation of Human Motion Prediction Toward Safe and Efficient Human Robot Collaboration",
+      "conference":"American Control Conference (ACC)",
+      "url":"https://arxiv.org/abs/2001.09550",
+      "authors":"Weiye Zhao, Liting Sun, Changliu Liu, and Masayoshi Tomizuka"
+   },
+
+   {  
+      "tag":"2019",
+      "year":"2019",
+      "title":"Adaptable Human Intention and Trajectory Predictionfor Human-Robot Collaboration",
+      "conference":"AAAI Fall Symposium Series",
+      "url":"https://arxiv.org/abs/1909.05089",
+      "authors":"Abulikemu Abuduweili<sup>&#10035;</sup>, Siyan Li<sup>&#10035;</sup>, and Changliu Liu"
+   },
+
+   {  
+      "tag":"2019",
+      "year":"2019",
+      "title":"Safe Control Algorithms using Energy Functions: A Unified Framework, Benchmark, and New Directions",
+      "conference":"IEEE Conference on Decision and Control",
+      "url":"https://arxiv.org/abs/1908.01883",
+      "authors":"Tianhao Wei, and Changliu Liu"
+   },
+
+   {  
+      "tag":"2019",
+      "year":"vol. 18, no. 95, October 2019",
+      "title":"Graph-Based Modeling, Scheduling, and Verification for Intersection Management of Intelligent Vehicles",
+      "conference":"ACM Transactions on Embedded Computing Systems (TECS)",
+      "url":"https://dl.acm.org/citation.cfm?id=3358221",
+      "authors":"Yi-Ting Lin, Hsiang Hsu, Shang-Chien Lin, Chung-Wei Lin, Hui-Ru Jiang, and Changliu Liu"
+   },
+
+   {  
+      "tag":"2019",
+      "year":"2019",
+      "title":"Toward Modularization of Neural Network Autonomous Driving Policy using Parallel Attribute Networks",
+      "conference":"IEEE Intelligent Vehicle Symposium",
+      "url":"https://events.infovaya.com/presentation?id=40465",
+      "authors":"Zhuo Xu, Haonan Chang, Chen Tang, Changliu Liu, and Masayoshi Tomizuka"
+   },
+
+   {  
+      "tag":"2019",
+      "year":"2019",
+      "title":"AGen: Adaptable Generative Prediction Networks for Autonomous Driving",
+      "conference":"IEEE Intelligent Vehicle Symposium",
+      "url":"http://www.cs.cmu.edu/~cliu6/files/iv19-1.pdf",
+      "authors":"Wenwen Si, Tianhao Wei, and Changliu Liu"
+   },
+
+   {  
+      "tag":"2019",
+      "year":"2019",
+      "title":"Algorithms for Verifying Deep Neural Networks",
+      "conference":"Arxiv",
+      "url":"https://arxiv.org/pdf/1903.06758.pdf",
+      "authors":"Changliu Liu, Tomer Arnon, Christopher Lazarus, Clark Barrett, Mykel J. Kochenderfer"
+   },
+
+   {  
+      "tag":"2019",
+      "year":"2019",
+      "title":"Human Motion Prediction using Semi-adaptable Neural Networks",
+      "conference":"American Control Conference (ACC)",
+      "url":"https://arxiv.org/abs/1810.00781",
+      "authors":"Yujiao Cheng<sup>&#10035;</sup>, Weiye Zhao<sup>&#10035;</sup>, Changliu Liu, and Masayoshi Tomizuka"
+   },
+
+   {  
+      "tag":"2019",
+      "year":"2019",
+      "title":"Simulating Emergent Properties of Human Driving Behavior using Multi-Agent RAIL",
+      "conference":"IEEE International Conference on Robotics and Automation (ICRA)",
+      "url":"https://arxiv.org/abs/1903.05766?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+arxiv%2FQSXk+%28ExcitingAds%21+cs+updates+on+arXiv.org%29",
+      "authors":"Raunak P. Bhattacharyya, Derek J. Phillips, Changliu Liu, Jayesh K. Gupta, Katherine Driggs-Campbell, and Mykel J. Kochenderfer"
+   },
+
+   {  
+      "tag":"2019",
+      "year":"**Best Applied Paper Award**",
+      "title":"NeuralVerification.jl: Algorithms for verifying deep neural networks",
+      "conference":"ICLR 2019 Debugging Machine Learning Models Workshop",
+      "url":"https://debug-ml-iclr2019.github.io/cameraready/DebugML-19_paper_22.pdf",
+      "authors":"Changliu Liu, Tomer Arnon, Christopher Lazarus, and Mykel J. Kochenderfer"
+   },
+
+   {  
+      "tag":"2018",
+      "year":"",
+      "title":"SERoCS: Safe and Efficient Robot Collaborative Systems for Next Generation Intelligent Industrial Co-Robots",
+      "conference":"Arxiv",
+      "url":"https://arxiv.org/pdf/1809.08215.pdf",
+      "authors":"Changliu Liu<sup>&#10035;</sup>, Te Tang<sup>&#10035;</sup>, Hsien-Chung Lin<sup>&#10035;</sup>, Yujiao Cheng<sup>&#10035;</sup>, and Masayoshi Tomizuka"
+   },
+
+   {  
+      "tag":"2018",
+      "year":"2018, pp. 29 - 35. **Best Paper Award**",
+      "title":"Fast Robot Motion Planning with Collision Avoidance and Temporal Optimization",
+      "conference":"International Conference on Control, Automation, Robotics and Vision (ICARCV)",
+      "url":"https://ieeexplore.ieee.org/abstract/document/8581194",
+      "authors":"Hsien-Chung Lin<sup>&#10035;</sup>, Changliu Liu<sup>&#10035;</sup>, and Masayoshi Tomizuka"
+   },
+
+   {  
+      "tag":"2018",
+      "year":"IEEE, 2018, pp. 2352 - 2357",
+      "title":"Analytically Modeling Unmanaged Intersections with Microscopic Vehicle Interactions",
+      "conference":"Intelligent Transportation Systems Conference (ITSC)",
+      "url":"https://arxiv.org/pdf/1903.05766.pdf",
+      "authors":"Changliu Liu, and Mykel J. Kochenderfer"
+   },
+
+   {  
+      "tag":"2018",
+      "year":"IEEE, 2018, pp. 4778 - 4783",
+      "title":"Improving Efficiency of Autonomous Vehicles via V2V Communication",
+      "conference":"American Control Conference",
+      "url":"https://ieeexplore.ieee.org/document/8430910",
+      "authors":"Changliu Liu, Chung-Wei Lin, Shinichi Shiraishi, and Masayoshi Tomizuka"
+   },
+
+   {  
+      "tag":"2018",
+      "year":"IEEE, 2018, pp. 4725-4732",
+      "title":"FOAD: Fast Optimization-based Autonomous Driving Motion Planner",
+      "conference":"American Control Conference",
+      "url":"https://ieeexplore.ieee.org/document/8431104",
+      "authors":"Jianyu Chen, Changliu Liu, and Masayoshi Tomizuka"
+   },
+
+   {  
+      "tag":"2018",
+      "year":"2018",
+      "title":"Robot Safe Interaction System for Intelligent Industrial Co-Robots",
+      "conference":"Arxiv",
+      "url":"https://arxiv.org/abs/1808.03983",
+      "authors":"Changliu Liu, and Masayoshi Tomizuka"
+   },
+
+   {  
+      "tag":"2018",
+      "year":"2018",
+      "title":"Analyzing Traffic Delay at Unmanaged Intersections",
+      "conference":"Arxiv",
+      "url":"https://arxiv.org/pdf/1806.02660.pdf",
+      "authors":"Changliu Liu, and Mykel J. Kochenderfer"
+   },
+
+   {  
+      "tag":"2018",
+      "year":"no. 1, pp. 18-29, Mar. 2018",
+      "title":"Distributed Conflict Resolution for Connected Autonomous Vehicles",
+      "conference":"IEEE Transactions on Intelligent Vehicles",
+      "url":"https://ieeexplore.ieee.org/document/8241865/",
+      "authors":"Changliu Liu, Chung-Wei Lin, Shinichi Shiraishi, and Masayoshi Tomizuka"
+   },
+
+   {  
+      "tag":"2018",
+      "year":"vol. 56, no. 4, pp. 2712–2733, 2018",
+      "title":"The Convex Feasible Set Algorithm for Real Time Optimization in Motion Planning",
+      "conference":"System &amp; Control Letters",
+      "url":"https://epubs.siam.org/doi/10.1137/16M1091460",
+      "authors":"Changliu Liu, and Masayoshi Tomizuka"
+   },
+
+   {  
+      "tag":"2018",
+      "year":"vol. 56, no. 4, pp. 2712–2733, 2018",
+      "title":"The Convex Feasible Set Algorithm for Real Time Optimization in Motion Planning",
+      "conference":"System &amp; Control Letters",
+      "url":"https://epubs.siam.org/doi/10.1137/16M1091460",
+      "authors":"Changliu Liu, and Masayoshi Tomizuka"
+   },
+
+   {  
+      "tag":"2017",
+      "year":"IEEE, 2017, pp. 1294 - 1299",
+      "title":"Real-time Collision Avoidance Algorithm on Industrial Manipulators",
+      "conference":"IEEE Conference on Control Technology and Applications (CCTA)",
+      "url":"https://ieeexplore.ieee.org/document/8062637/",
+      "authors":"Hsien-Chung Lin, Changliu Liu, Yongxiang Fan, and Masayoshi Tomizuka"
+   },
+
+   {  
+      "tag":"2017",
+      "year":"IEEE, 2017, pp. 831 - 836",
+      "title":"Boundary Layer Heuristic for Search-based Nonholonomic Path Planning in Maze-like Environments",
+      "conference":"IEEE Intelligent Vehicle Symposium",
+      "url":"http://ieeexplore.ieee.org/document/7995819/",
+      "authors":"Changliu Liu, Yizhou Wang, and Masayoshi Tomizuka"
+   },
+
+   {  
+      "tag":"2017",
+      "year":"IEEE, 2017, pp. 154 - 159",
+      "title":"Speed Profile Planning in Dynamic Environments via Temporal Optimization",
+      "conference":"IEEE Intelligent Vehicle Symposium",
+      "url":"https://ieeexplore.ieee.org/document/8430910",
+      "authors":"Changliu Liu, Wei Zhan, and Masayoshi Tomizuka"
+   },
+
+   {  
+      "tag":"2017",
+      "year":"IEEE, 2017, pp. 632 - 639",
+      "title":"Spatially-Partitioned Environmental Representation and Planning Architecture for On-Road Autonomous Driving",
+      "conference":"IEEE Intelligent Vehicle Symposium",
+      "url":"http://ieeexplore.ieee.org/document/7995789/",
+      "authors":"Wei Zhan, Jianyu Chen, Chin-Yao Chan, Changliu Liu, and Masayoshi Tomizuka"
+   },
+
+   {  
+      "tag":"2017",
+      "year":"IEEE, 2017, pp. 4177 - 4182",
+      "title":"Convex Feasible Set Algorithm for Constrained Trajectory Smoothing",
+      "conference":"American Control Conference",
+      "url":"http://ieeexplore.ieee.org/document/7963597/",
+      "authors":"Changliu Liu, Chung-Yen Lin, Yizhou Wang, and Masayoshi Tomizuka"
+   },
+
+   {  
+      "tag":"2017",
+      "year":"SAE Technical Paper 2017-01-1406, 2017",
+      "title":"The Robustly-Safe Automated Driving System for Enhanced Active Safety",
+      "conference":"SAE World Congress",
+      "url":"https://saemobilus.sae.org/content/2017-01-1406",
+      "authors":"Changliu Liu, Jianyu Chen, Trong-Duy Nguyen, and Masayoshi Tomizuka"
+   },
+
+   {  
+      "tag":"2017",
+      "year":"vol. 108, pp. 56-63, Oct. 2017",
+      "title":"Real Time Trajectory Optimization for Nonlinear Robotic Systems: Relaxation and Convexification",
+      "conference":"System &amp; Control Letters",
+      "url":"https://authors.elsevier.com/a/1VlV7c8EXUexT",
+      "authors":"Changliu Liu, and Masayoshi Tomizuka"
+   },
+
+   {  
+      "tag":"2017",
+      "year":"vol. 37, no. 1, pp. 123-125, Feb. 2017",
+      "title":"Safe Robot Navigation among Moving and Steady Obstacles [Bookshelf]",
+      "conference":"IEEE Control Systems",
+      "url":"http://ieeexplore.ieee.org/document/7823104/",
+      "authors":"Changliu Liu"
+   },
+
+   {  
+      "tag":"2017",
+      "year":"Springer, 2017",
+      "title":"Designing the Robot Behavior for Safe Human-Robot Interactions",
+      "conference":"Trends in Control and Decision-Making for Human-Robot Collaboration Systems (Y. Wang and F. Zhang (Eds.))",
+      "url":"https://www.springerprofessional.de/en/designing-the-robot-behavior-for-safe-human-robot-interactions/12035766",
+      "authors":"Changliu Liu, and Masayoshi Tomizuka"
+   },
+
+   {  
+      "tag":"2016",
+      "year":"IEEE, 2016, pp. 459 - 464",
+      "title":"A Non-Conservatively Defensive Strategy for Urban Autonomous Driving",
+      "conference":"Intelligent Transportation Systems Conference (ITSC)",
+      "url":"http://ieeexplore.ieee.org/document/7795595/",
+      "authors":"Wei Zhan, Changliu Liu, Chin-Yao Chan, and Masayoshi Tomizuka"
+   },
+
+   {  
+      "tag":"2016",
+      "year":"IEEE, 2016, pp. 2689 - 2696",
+      "title":"Robotic Manipulation of Deformable Objects by Tangent Space Mapping and Non-Rigid Registration",
+      "conference":"IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)",
+      "url":"http://ieeexplore.ieee.org/abstract/document/7759418/",
+      "authors":"Te Tang, Changliu Liu, Wenjie Chen, and Masayoshi Tomizuka"
+   },
+
+   {  
+      "tag":"2016",
+      "year":"IEEE, 2016, pp. 3461 - 3467",
+      "title":"Enabling Safe Freeway Driving for Automated Vehicles",
+      "conference":"American Control Conference",
+      "url":"http://ieeexplore.ieee.org/abstract/document/7525449/",
+      "authors":"Changliu Liu, and Masayoshi Tomizuka"
+   },
+
+   {  
+      "tag":"2016",
+      "year":"IEEE, 2016, pp. 4859 - 4864",
+      "title":"Who to Blame? Learning and Control Strategies with Information Asymmetry",
+      "conference":"American Control Conference",
+      "url":"http://ieeexplore.ieee.org/abstract/document/7526122/",
+      "authors":"Changliu Liu, Wenlong Zhang and Masayoshi Tomizuka"
+   },
+
+   {  
+      "tag":"2016",
+      "year":"IEEE, 2016, pp. 3095 - 3102",
+      "title":"Algorithmic Safety Measures for Intelligent Industrial Co-Robots",
+      "conference":"IEEE International Conference on Robotics and Automation (ICRA)",
+      "url":"http://ieeexplore.ieee.org/abstract/document/7487476/",
+      "authors":"Changliu Liu, and Masayoshi Tomizuka"
+   },
+
+
+   {  
+      "tag":"2015",
+      "year":"IEEE, 2015, pp. 465 - 470",
+      "title":"Safe Exploration: Addressing Various Uncertainty Levels in Human Robot Interactions",
+      "conference":"American Control Conference",
+      "url":"http://proceedings.asmedigitalcollection.asme.org/proceeding.aspx?articleid=2086271",
+      "authors":"Changliu Liu, and Masayoshi Tomizuka"
+   },
+
+   {  
+      "tag":"2014",
+      "year":"ASME, 2014, p. V003T42A003. **Best Student Paper Finalist**",
+      "title":"Control in A Safe Set: Addressing Safety in Human-Robot Interactions",
+      "conference":"Dynamic Systems and Control Conference (DSCC)",
+      "url":"http://ieeexplore.ieee.org/document/7170779/?arnumber=7170779",
+      "authors":"Changliu Liu, and Masayoshi Tomizuka"
+   },
+
+
+   {  
+      "tag":"2014",
+      "year":"IEEE, 2014, pp. 1386 - 1391",
+      "title":"Modeling and Controller Design of Cooperative Robots in Workspace Sharing Human-Robot Assembly Teams",
+      "conference":"IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)",
+      "url":"http://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=6942738",
+      "authors":"Changliu Liu, and Masayoshi Tomizuka"
+   }
+   
+]
