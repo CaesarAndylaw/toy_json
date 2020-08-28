@@ -1,3 +1,27 @@
-{
-  "bar": "Success!"
-}
+[	
+	{
+	  title={Modeling and controller design of cooperative robots in workspace sharing human-robot assembly teams},
+	  author={Liu, Changliu and Tomizuka, Masayoshi},
+	  booktitle={Intelligent Robots and Systems (IROS 2014), 2014 IEEE/RSJ International Conference on},
+	  pages={1386--1391},
+	  year={2014},
+	  organization={IEEE}
+	}
+
+	{
+	  title={Control in a safe set: Addressing safety in human-robot interactions},
+	  author={Liu, Changliu and Tomizuka, Masayoshi},
+	  booktitle={2014 ASME Dynamic Systems and Control Conference},
+	  year={2014},
+	  organization={ASME}
+	}
+
+	{
+	  title={Safe exploration: Addressing various uncertainty levels in human robot interactions},
+	  author={Liu, Changliu and Tomizuka, Masayoshi},
+	  booktitle={2015 American Control Conference (ACC)},
+	  pages={465--470},
+	  year={2015},
+	  organization={IEEE}
+	}
+]
